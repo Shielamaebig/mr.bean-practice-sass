@@ -1,0 +1,33 @@
+header {
+  background-color: #F2F2F2;
+  border-bottom: 5px solid #CAD32E;
+  width: 60%;
+}
+
+.bean-main {
+  margin-left: 2rem;
+}
+
+.standing-bean {
+  background-color: #F2F3E3;
+}
+
+main {
+  width: 60%;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.banner img {
+  width: 100%;
+  margin-top: 3rem;
+}
+
+footer {
+  background-color: #C6C6C6;
+  width: 60%;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,35 @@
+$headerbg: #F2F2F2;
+$borderline: #CAD32E;
+$spacingstart: 2rem;
+$spacingstand: 3rem;
+$standingBean: #F2F3E3;
+$footerbean:#C6C6C6;
+$size: 60%;
+
+
+header{
+    background-color: $headerbg;
+    border-bottom:5px solid $borderline ;
+    width: $size;
+}
+.bean-main{
+    margin-left: $spacingstart;
+}
+.standing-bean{
+    background-color: $standingBean;
+}
+main{
+    width: $size;
+}
+a:link {
+    text-decoration: none;
+}
+.banner img{
+    width: 100%;
+    margin-top: $spacingstand;
+}
+footer{
+    background-color: $footerbean;
+    width: $size;
+    text-align: center;
+}
